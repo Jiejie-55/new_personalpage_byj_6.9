@@ -1,0 +1,13 @@
+# 不部署的大文件（网页中用的是B站链接，本地文件不需要）
+video/
+front/
+作品集/
+
+# AIGC 视频源文件（网页只引用PDF，视频不需要）
+AIGC/*.mp4
+
+# 旧版网页
+personal_web.html
+
+# Git 系统文件
+.git/
