@@ -6,8 +6,9 @@ front/
 # AIGC 视频源文件（网页只引用PDF，视频不需要）
 AIGC/*.mp4
 
-# 旧版网页
+# 旧版网页（本地保留，只用 index.html 部署）
 personal_web.html
+personal_web_v2.html
 
 # Git 系统文件
 .git/
